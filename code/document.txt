@@ -1,0 +1,29 @@
+
+
+
+### regression adjusted proportion
+bootstrap_mX.R for all data
+
+check_regression.R for after impossibility check and manipulation
+
+### try to draw CI
+CI.R: code for drawing bar plot 
+draw_CI.R: original way to get CI, wrong
+
+### ttest
+ttest.R
+
+### elasticity
+elasticity.R
+
+### summary for each factor
+summary will call my_summary.R
+
+### set up for logistic
+logistic_result.R
+
+### read in data
+read_data.R
+
+
+

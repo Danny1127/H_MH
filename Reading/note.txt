@@ -1,0 +1,12 @@
+# SAS fpower function
+
+http://www.datavis.ca/sasmac/fpower.html
+
+# online power analysis computation
+http://www.math.yorku.ca/SCS/Online/power/
+
+fpower(A=3,B=2,ALPHA=.05,N =%str(1000 to 1300 by 100),DELTA=.05 to 0.5 by 0.2)
+
+fpower(A=3,B=2,ALPHA=.05,N =%str(1000 to 1300 by 100),DELTA=%str(.05 to 0.5 by 0.2),PTABLE=YES)
+include macros(fpower);   
+fpower(A=3,B=2,ALPHA=.05,N =%str(1000 to 1300 by 100),DELTA=%str(.05 to 0.5 by 0.2),PTABLE=YES,OUT=PWRTABLE)

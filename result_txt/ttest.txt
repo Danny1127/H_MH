@@ -1,0 +1,72 @@
+0
+	Welch Two Sample t-test
+
+data:  x[, 1] by x[, 2]
+t = 0.83481, df = 172.18, p-value = 0.405
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.08562234  0.21113047
+sample estimates:
+mean in group 1 mean in group 2 
+      0.4895833       0.4268293 
+
+
+	Welch Two Sample t-test
+
+data:  x[, 1] by x[, 2]
+t = 1.9605, df = 146.74, p-value = 0.05183
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.001141489  0.284925273
+sample estimates:
+mean in group 1 mean in group 2 
+      0.7500000       0.6081081 
+
+1
+	Welch Two Sample t-test
+
+data:  x[, 1] by x[, 2]
+t = -3.9657, df = 148.61, p-value = 0.0001134
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4011482 -0.1343285
+sample estimates:
+mean in group 0 mean in group 2 
+      0.1590909       0.4268293 
+
+
+	Welch Two Sample t-test
+
+data:  x[, 1] by x[, 2]
+t = -5.6533, df = 140.71, p-value = 8.45e-08
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.5395768 -0.2599728
+sample estimates:
+mean in group 0 mean in group 2 
+      0.2083333       0.6081081 
+
+2
+	Welch Two Sample t-test
+
+data:  x[, 1] by x[, 2]
+t = -5.1191, df = 173.71, p-value = 8.085e-07
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.4579178 -0.2030671
+sample estimates:
+mean in group 0 mean in group 1 
+      0.1590909       0.4895833 
+
+
+	Welch Two Sample t-test
+
+data:  x[, 1] by x[, 2]
+t = -8.8932, df = 189.22, p-value = 4.716e-16
+alternative hypothesis: true difference in means is not equal to 0
+95 percent confidence interval:
+ -0.6618127 -0.4215206
+sample estimates:
+mean in group 0 mean in group 1 
+      0.2083333       0.7500000 
+
